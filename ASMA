@@ -1,15 +1,15 @@
 #EXTM3U
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIES",MBC 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIES",MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MOVIES",MBC Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MOVIES",MBC Action
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/MBC_Max_2010_logo.svg" group-title="MOVIES",MBC Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/MBC_Max_2010_logo.svg" group-title="MOVIES",MBC Max
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="MOVIES",Comedy Central
@@ -300,7 +300,7 @@ https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nickelodeon_Sonic#/media/File:Nickelodeon_Sonic_logo.png" group-title="KIDS",Nick Sonic Bangla
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="KIDS",MBC 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="KIDS",MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="ARAB",Peace TV ENGLISH
@@ -312,22 +312,22 @@ http://playlive.goonj.pk/makkahweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sunnah_tv.jpg" group-title="ARAB",Sunna
 https://edge01.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="ARAB",Al Saudiya
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="ARAB",Al Saudiya
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ARAB",MBC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ARAB",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="ARAB",MBC 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="ARAB",MBC 4
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="ARAB",MBC 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="ARAB",MBC 5
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="ARAB",MBC Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="ARAB",MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg" group-title="ARAB",MBC Bollywood
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/MBC_Bollywood_logo.jpeg" group-title="ARAB",MBC Bollywood
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg" group-title="NEWS & LIFE",CNN
